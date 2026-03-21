@@ -24,5 +24,7 @@ build a strong digital presence for internships and jobs.
 
 ## Created By
 Name: Satyam Singh
+
 Branch: CS — AI & ML
+
 Institution: VIT Bhopal University
