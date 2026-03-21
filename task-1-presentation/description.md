@@ -15,5 +15,7 @@ The most interesting part of Canva is that it provides a wide range of free temp
 
 ## Created By
 Name: Satyam Singh
+
 Reg No.: 25BAI10144
+
 Institution: VIT Bhopal University
