@@ -28,7 +28,7 @@ B.Tech — CS AI & ML | First Year
 VIT Bhopal University  
 Registration No: 25BAI10144
 
-## Email 2 — Request for Deadline Extension
+## Email 2 — Summer Internship Application
 
 Subject: Application for Summer Internship Opportunity
 
