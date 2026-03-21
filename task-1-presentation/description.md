@@ -11,7 +11,7 @@ Online World". It covers three key topics:
 - Building a Professional Online Presence
 
 ## What I Found Interesting
-The most interesting part of canva is that it provides a wide range of free templates amd designs, and the challenging part for me is to arranging and moveing the texts .
+The most interesting part of Canva is that it provides a wide range of free templates and designs, and the challenging part for me was arranging and moving the texts.
 
 ## Created By
 Name: Satyam Singh
