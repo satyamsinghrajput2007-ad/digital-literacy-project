@@ -20,8 +20,8 @@ inconvenience caused.
 
 Thank you for your time and consideration.
 
-Yours sincerely,
-Satyam Singh
-B.Tech — CS AI & ML | First Year
-VIT Bhopal University
+Yours sincerely, 
+Satyam Singh 
+B.Tech — CS AI & ML | First Year 
+VIT Bhopal University 
 Registration No: 25BAI10144
