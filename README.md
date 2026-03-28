@@ -1,44 +1,74 @@
 # Digital-Literacy-Project
 "Digital Literacy Portfolio – CSE0001 Project | VIT Bhopal University"
+---
+## Student Details
 
-# Digital Literacy Portfolio
-**Name:** Satyam Singh 
+| Field | Details |
+|-------|---------|
+| **Name** | Satyam Singh |
+| **Registration No.** | 25BAI10144 |
+| **Branch** | B.TECH CSE AI and ML |
+| **Year** | First Year B.Tech |
+| **Course Code** | CSE0001 – Digital Literacy |
 
-**Reg No.:** 25BAI10144
+---
 
-**Branch:** B.Tech In Computer Science in Artificial Intelligence and Machine Learning
+## Project Overview
 
-**Year:** First Year  
+As a Student Digital Ambassador at VIT Bhopal, this portfolio demonstrates my digital literacy skills across five modules — from designing awareness infographics to understanding cybercrime prevention. Each task reflects real-world applications of digital tools and responsible online practices.
 
-**Course:** CSE0001 – Digital Literacy  
+---
 
-**Institution:** VIT Bhopal University
+## Repository Structure
+
+```
+digital-literacy-project/
+├── README.md
+├── Report/
+│   └── Project_Report.md
+├── task-1-presentation/
+├── task-2-portfolio/
+├── task-3-platforms/
+├── task-4-email-etiquette/
+└── task-5-cybercrime/
+```
+
+---
 
 ## Module Summaries
 
-**Task 1 – Digital Literacy Infographic**
-Created a one-page visual infographic explaining digital literacy concepts.
+### Task 1 – Digital Literacy Infographic (Module 1)
+Created a one-page infographic using **Canva** covering what digital literacy is, useful student tools, safe internet practices, professional online presence, and email etiquette.
+> 🔗 Canva Link: https://www.canva.com/design/DAHEkM2NsWg/BatjKPO-sNoO0g6-8ZwUgA/edit?utm_content=DAHEkM2NsWg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-**Task 2 – Student Digital Portfolio**
-Set up professional profiles on GitHub, LinkedIn, and other platforms.
+### Task 2 – Student Digital Portfolio (Module 2)
+Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle** to build a foundational digital presence for academic and career growth.
+> 🔗 GitHub Profile: https://github.com/Satwik-Rajput
+> 🔗 LinkedIn: www.linkedin.com/in/satwik-singh-rajput-ud088
+> 🔗 Kaggle: https://www.kaggle.com/satwiksingh008
 
-**Task 3 – Coding & Collaboration Platforms**
-Explored coding platforms and built a Digital Literacy Quiz using Google Forms.
+### Task 3 – Coding & Collaboration Platforms (Module 3)
+Completed a beginner challenge on **HackerRank** and built a 5-question **Digital Literacy Quiz** using Google Forms for batchmates.
+> 🔗 Google Form (Quiz): https://forms.gle/MqH639ZSn54mvDMe7
 
-**Task 4 – Email Etiquette**
-Drafted professional emails and created a social media do's and don'ts checklist.
+### Task 4 – Email Etiquette & Social Media Guide (Module 4)
+Drafted two professional emails (to professor and internship coordinator) and created a Social Media Do's & Don'ts checklist.
 
-**Task 5 – Cybercrime Awareness**
-Researched a cybercrime case study and created a prevention checklist.
+### Task 5 – Cybercrime Awareness (Module 5)
+Researched UPI/Online Payment Fraud, wrote a 200-word case study, and created an 8-point prevention checklist tailored for Indian college students.
 
-## Links
+---
 
-**Task 3 – Google Form Quiz:**  https://forms.gle/ypeD4eo2oNaPJNR59
+## Tools Used
+- Canva (infographic design)
+- GitHub (version control & portfolio)
+- LinkedIn, Kaggle (professional presence)
+- HackerRank (coding practice)
+- Google Forms & Sheets (collaboration)
 
-## Platforms Used
-- GitHub
-- LinkedIn
-- Canva
-- HackerRank
-- Google Forms
-- Kaggle
+---
+
+## References
+- cybercrime.gov.in – National Cyber Crime Reporting Portal
+- Cyber Crime Helpline: **1930** (24x7)
+- canva.com | github.com | linkedin.com | kaggle.com | hackerrank.com
