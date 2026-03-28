@@ -43,9 +43,9 @@ Created a one-page infographic using **Canva** covering what digital literacy is
 > 
 ### Task 2 – Student Digital Portfolio (Module 2)
 Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle** to build a foundational digital presence for academic and career growth.
-> 🔗 GitHub Profile: https://github.com/satyamsinghrajput2007-ad
-> 🔗 LinkedIn: www.linkedin.com/in/satyam-singh-2007ad
-> 🔗 Kaggle: https://www.kaggle.com/satyamsingh2007
+> 🔗 GitHub Profile: https://github.com/satyamsinghrajput2007-ad  
+> 🔗 LinkedIn: www.linkedin.com/in/satyam-singh-2007ad  
+> 🔗 Kaggle: https://www.kaggle.com/satyamsingh2007  
 
 ### Task 3 – Coding & Collaboration Platforms (Module 3)
 Completed a beginner challenge on **HackerRank** and built a 5-question **Digital Literacy Quiz** using Google Forms for batchmates.
