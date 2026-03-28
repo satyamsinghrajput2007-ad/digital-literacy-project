@@ -39,13 +39,13 @@ digital-literacy-project/
 
 ### Task 1 – Digital Literacy Infographic (Module 1)
 Created a one-page infographic using **Canva** covering what digital literacy is, useful student tools, safe internet practices, professional online presence, and email etiquette.
-> 🔗 Canva Link: https://www.canva.com/design/DAHEkM2NsWg/BatjKPO-sNoO0g6-8ZwUgA/edit?utm_content=DAHEkM2NsWg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+> 🔗 Canva Link: https://www.canva.com/design/DAHEkCpJGWU/GyJu5VMdsv_0YD8didg5Jg/edit?utm_content=DAHEkCpJGWU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+> 
 ### Task 2 – Student Digital Portfolio (Module 2)
 Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle** to build a foundational digital presence for academic and career growth.
-> 🔗 GitHub Profile: https://github.com/Satwik-Rajput
-> 🔗 LinkedIn: www.linkedin.com/in/satwik-singh-rajput-ud088
-> 🔗 Kaggle: https://www.kaggle.com/satwiksingh008
+> 🔗 GitHub Profile: https://github.com/satyamsinghrajput2007-ad
+> 🔗 LinkedIn: www.linkedin.com/in/satyam-singh-2007ad
+> 🔗 Kaggle: https://www.kaggle.com/satyamsingh2007
 
 ### Task 3 – Coding & Collaboration Platforms (Module 3)
 Completed a beginner challenge on **HackerRank** and built a 5-question **Digital Literacy Quiz** using Google Forms for batchmates.
